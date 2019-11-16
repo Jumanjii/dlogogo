@@ -1,2 +1,2 @@
-# dlogogo
-Dlogogo - un jarvis antillais en go
+# Dlogogo - un jarvis antillais en go
+
